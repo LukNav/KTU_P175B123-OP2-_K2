@@ -1,0 +1,7 @@
+D:\Navasinskas_Lukas_IFF-98_P175B123\PV-K2-2\K2LandlineOperator\obj\Debug\K2LandlineOperator.csprojAssemblyReference.cache
+D:\Navasinskas_Lukas_IFF-98_P175B123\PV-K2-2\K2LandlineOperator\obj\Debug\K2LandlineOperator.csproj.CoreCompileInputs.cache
+D:\Navasinskas_Lukas_IFF-98_P175B123\PV-K2-2\K2LandlineOperator\bin\Debug\LandlineOperator.exe.config
+D:\Navasinskas_Lukas_IFF-98_P175B123\PV-K2-2\K2LandlineOperator\bin\Debug\LandlineOperator.exe
+D:\Navasinskas_Lukas_IFF-98_P175B123\PV-K2-2\K2LandlineOperator\bin\Debug\LandlineOperator.pdb
+D:\Navasinskas_Lukas_IFF-98_P175B123\PV-K2-2\K2LandlineOperator\obj\Debug\LandlineOperator.exe
+D:\Navasinskas_Lukas_IFF-98_P175B123\PV-K2-2\K2LandlineOperator\obj\Debug\LandlineOperator.pdb

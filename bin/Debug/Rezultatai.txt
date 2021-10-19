@@ -1,0 +1,45 @@
+
+Base data
+-------------------------------------------------------------------------------------------------
+|                           Full Name |          Number |            City |  Time |    Minutes |
+-------------------------------------------------------------------------------------------------
+|               AVardenis APavardenis |    +37012345601 |        AMiestas | 10:30 |         50 |
+|              BBVardenis APavardenis |    +37012345604 |        MMiestas | 18:10 |        115 |
+|               CVardenis APavardenis |    +37012345601 |       AFMiestas | 13:30 |         20 |
+|               FVardenis APavardenis |    +37012345602 |        AMiestas | 11:20 |         20 |
+|               AVardenis APavardenis |    +37012345604 |       AaMiestas | 10:30 |         89 |
+|               AVardenis APavardenis |    +37012345601 |        AMiestas | 23:30 |         20 |
+|               CVardenis APavardenis |    +37012345602 |       BBMiestas | 10:45 |         10 |
+|               BVardenis APavardenis |    +37012345601 |        AMiestas | 12:30 |         55 |
+-------------------------------------------------------------------------------------------------
+
+Filtered list by input II
+-------------------------------------------------------------------------------------------------
+|                           Full Name |          Number |            City |  Time |    Minutes |
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+
+Filtered list by input III
+-------------------------------------------------------------------------------------------------
+|                           Full Name |          Number |            City |  Time |    Minutes |
+-------------------------------------------------------------------------------------------------
+|               AVardenis APavardenis |    +37012345601 |        AMiestas | 10:30 |         50 |
+|               BVardenis APavardenis |    +37012345601 |        AMiestas | 12:30 |         55 |
+|               CVardenis APavardenis |    +37012345602 |       BBMiestas | 10:45 |         10 |
+|               AVardenis APavardenis |    +37012345604 |       AaMiestas | 10:30 |         89 |
+|               FVardenis APavardenis |    +37012345602 |        AMiestas | 11:20 |         20 |
+|               CVardenis APavardenis |    +37012345601 |       AFMiestas | 13:30 |         20 |
+-------------------------------------------------------------------------------------------------
+
+Filtered list by input IV
+-------------------------------------------------------------------------------------------------
+|                           Full Name |          Number |            City |  Time |    Minutes |
+-------------------------------------------------------------------------------------------------
+|               AVardenis APavardenis |    +37012345604 |       AaMiestas | 10:30 |         89 |
+|               BVardenis APavardenis |    +37012345601 |        AMiestas | 12:30 |         55 |
+|               AVardenis APavardenis |    +37012345601 |        AMiestas | 10:30 |         50 |
+|               AVardenis APavardenis |    +37012345601 |        AMiestas | 23:30 |         20 |
+|               CVardenis APavardenis |    +37012345601 |       AFMiestas | 13:30 |         20 |
+|               FVardenis APavardenis |    +37012345602 |        AMiestas | 11:20 |         20 |
+|               CVardenis APavardenis |    +37012345602 |       BBMiestas | 10:45 |         10 |
+-------------------------------------------------------------------------------------------------
